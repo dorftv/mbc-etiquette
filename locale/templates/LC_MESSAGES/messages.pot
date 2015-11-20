@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-10 16:51-0300\n"
+"POT-Creation-Date: 2015-11-20 12:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgid "Manual"
 msgstr ""
 
 #: views/templates/header.jade:18 views/templates/editor.jade:3
-#: views/templates/header.jade:10
+#: views/templates/header.jade:10 views/templates/header.jade:6
 msgid "Editor"
 msgstr ""
 
